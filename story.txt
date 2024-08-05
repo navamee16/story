@@ -1,6 +1,7 @@
 Adam wakes up in the morning.
 He brushes his teeth.
-He take a bath
 He has breakfast.
+He go to the class.
+3rd line attended
 Then he . . .
-He goes to class
+git1 add
